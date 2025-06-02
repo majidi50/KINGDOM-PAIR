@@ -5,7 +5,7 @@ let router = express.Router();
 const pino = require("pino");
 const { Boom } = require("@hapi/boom");
 const MESSAGE = process.env.MESSAGE || `
-╭━━━〔 *𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸 SESSION* 〕━━━┈⊷
+╭━━━〔 *꧁༒☬ 𝕷𝕺𝕱𝕿-𝕏𝕸𝕯 ☬༒꧂ SESSION* 〕━━━┈⊷
 ┃◈├•*SESSION GENERATED SUCCESSFULY* ✅
 ┃◈┃
 ┃◈├•*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
@@ -29,7 +29,7 @@ const MESSAGE = process.env.MESSAGE || `
 ┃◈├•*Wᴇʙsɪᴛᴇ* 🌟
 ┃◈├•https://loftxmd-web.vercel.app/
 ┃◈┃
-┃◈├•*TOHID_MD--WHATTSAPP-BOT* 🥀
+┃◈├•*꧁༒☬ 𝕷𝕺𝕱𝕿-𝕏𝕸𝕯 ☬༒꧂--WHATTSAPP-BOT* 🥀
 ┃◈╰──────────●●►
 ┃◈╭─────────────●●►
 ┃◈├
@@ -42,7 +42,7 @@ Procedure(Ensure you have Github Account and Billed
 Heroku Account First.)
 Don't Forget To Give Star⭐ To My Repo
 ╭────────────────────┈⊷
-├━━━〔 *𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸 SESSION* 〕━━━┈⊷
+├━━━〔 *꧁༒☬ 𝕷𝕺𝕱𝕿-𝕏𝕸𝕯 ☬༒꧂ SESSION* 〕━━━┈⊷
 ╰────────────────────┈⊷
 `;
 
