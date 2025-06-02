@@ -13,11 +13,11 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 
 const MESSAGE = process.env.MESSAGE ||  `
-╭━━━〔 *𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸 SESSION* 〕━━━┈⊷
+╭━━━〔 *꧁༒☬ 𝕷𝕺𝕱𝕿-𝕏𝕸𝕯 ☬༒꧂ SESSION* 〕━━━┈⊷
 ┃◈├•*SESSION GENERATED SUCCESSFULY* ✅
 ┃◈┃
 ┃◈├•*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-┃◈├•https://github.com/loftxmd23/DARK-MATRIXX 
+┃◈├•https://github.com/loftxmd23/Loft-xmd-s24 
 ┃◈┃
 ┃◈├•*Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ* 🌟
 ┃◈├•https://t.me/loftxmd 
@@ -37,7 +37,7 @@ const MESSAGE = process.env.MESSAGE ||  `
 ┃◈├•*Wᴇʙsɪᴛᴇ* 🌟
 ┃◈├•https://loftxmd-web.vercel.app/
 ┃◈┃
-┃◈├•*𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸--WHATTSAPP-BOT* 🥀
+┃◈├•*꧁༒☬ 𝕷𝕺𝕱𝕿-𝕏𝕸𝕯 ☬༒꧂--WHATTSAPP-BOT* 🥀
 ┃◈╰──────────●●►
 ┃◈╭─────────────●●►
 ┃◈├ 
@@ -50,7 +50,7 @@ Procedure(Ensure you have Github Account and Billed
 Heroku Account First.)
 Don't Forget To Give Star⭐ To My Repo
 ╭────────────────────┈⊷
-├━━━〔 *𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸 SESSION* 〕━━━┈⊷
+├━━━〔 *꧁༒☬ 𝕷𝕺𝕱𝕿-𝕏𝕸𝕯 ☬༒꧂ SESSION* 〕━━━┈⊷
 ╰────────────────────┈⊷
 `
 
