@@ -5,31 +5,31 @@ let router = express.Router();
 const pino = require("pino");
 const { Boom } = require("@hapi/boom");
 const MESSAGE = process.env.MESSAGE || `
-╭━━━〔 *꧁༒☬ 𝕷𝕺𝕱𝕿-𝕏𝕸𝕯 ☬༒꧂ SESSION* 〕━━━┈⊷
+╭━━━〔 *KINGDOM MD.SESSION* 〕━━━┈⊷
 ┃◈├•*SESSION GENERATED SUCCESSFULY* ✅
 ┃◈┃
 ┃◈├•*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-┃◈├•https://github.com/loftxmd23/Loft-xmd-s24 
+┃◈├•https://github.com/Anzad378/.KINGDOM-MD
 ┃◈┃
 ┃◈├•*Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ* 🌟
 ┃◈├•https://t.me/loftxmd 
 ┃◈┃
 ┃◈├•*WʜᴀᴛsAᴘᴘ Gʀᴏᴜᴘ* 🌟
-┃◈├•https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610
+┃◈├•https://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f
 ┃◈┃
 ┃◈├•*WʜᴀᴛsAᴘᴘ ᴄʜᴇɴɴᴀʟ* 🌟
-┃◈├•https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610
+┃◈├•https://wa.me/message/B67R2CEOSVXJK1
 ┃◈┃
 ┃◈┃*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🌟 
-┃◈├•https://youtube.com/loftxmd 
+┃◈├•https://youtube.com/anzad 
 ┃◈┃
 ┃◈├•*ɢɪᴛʜᴜʙ* 🌟
-┃◈├•http://GitHub.com/loftxmd23
+┃◈├•https://github.com/Anzad378/.KINGDOM-MD
 ┃◈┃
 ┃◈├•*Wᴇʙsɪᴛᴇ* 🌟
-┃◈├•https://loftxmd-web.vercel.app/
+┃◈├•https://anzadi-web.vercel.app/
 ┃◈┃
-┃◈├•*꧁༒☬ 𝕷𝕺𝕱𝕿-𝕏𝕸𝕯 ☬༒꧂--WHATTSAPP-BOT* 🥀
+┃◈├•KINGDOM MD--WHATTSAPP-BOT* 🥀
 ┃◈╰──────────●●►
 ┃◈╭─────────────●●►
 ┃◈├
@@ -42,7 +42,7 @@ Procedure(Ensure you have Github Account and Billed
 Heroku Account First.)
 Don't Forget To Give Star⭐ To My Repo
 ╭────────────────────┈⊷
-├━━━〔 *꧁༒☬ 𝕷𝕺𝕱𝕿-𝕏𝕸𝕯 ☬༒꧂ SESSION* 〕━━━┈⊷
+├━━━〔 KINGDOM MD SESSION* 〕━━━┈⊷
 ╰────────────────────┈⊷
 `;
 
