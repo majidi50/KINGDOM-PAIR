@@ -20,19 +20,19 @@ const MESSAGE = process.env.MESSAGE ||  `
 ┃◈├•https://github.com/Anzad378/.KINGDOM-MD
 ┃◈┃
 ┃◈├•*Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ* 🌟
-┃◈├•https://github.com/Anzad378/.KINGDOM-MD
+┃◈├•https://chat.whatsapp.com/FkBWBV2dsfFBoBSC61Sb7i
 ┃◈┃
 ┃◈├•*WʜᴀᴛsAᴘᴘ Gʀᴏᴜᴘ* 🌟
-┃◈├•https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610
+┃◈├•https://chat.whatsapp.com/FkBWBV2dsfFBoBSC61Sb7i
 ┃◈┃
-┃◈├•*WʜᴀᴛsAᴘᴘ ᴄʜᴇɴɴᴀʟ* 🌟
-┃◈├•https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610
+┃◈├•*GITHUB* 🌟
+┃◈├•https://github.com/Anzad378/KINGDOM-MD
 ┃◈┃
 ┃◈┃*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🌟 
-┃◈├•https://youtube.com/loftxmd 
+┃◈├•https://youtube.com/anzadi 
 ┃◈┃
-┃◈├•*ɢɪᴛʜᴜʙ* 🌟
-┃◈├•http://GitHub.com/loftxmd 
+┃◈├•*CONTACT ME* 🌟
+┃◈├•https://wa.me/message/B67R2CEOSVXJK1
 ┃◈┃
 ┃◈├•*Wᴇʙsɪᴛᴇ* 🌟
 ┃◈├•https://anzadi-web.vercel.app/
