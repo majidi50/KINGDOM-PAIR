@@ -12,7 +12,7 @@ const MESSAGE = process.env.MESSAGE || `
 ┃◈├•https://github.com/Anzad378/.KINGDOM-MD
 ┃◈┃
 ┃◈├•*Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ* 🌟
-┃◈├•https://t.me/loftxmd 
+┃◈├•https://wa.me/message/B67R2CEOSVXJK1 
 ┃◈┃
 ┃◈├•*WʜᴀᴛsAᴘᴘ Gʀᴏᴜᴘ* 🌟
 ┃◈├•https://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f
@@ -27,7 +27,7 @@ const MESSAGE = process.env.MESSAGE || `
 ┃◈├•https://github.com/Anzad378/.KINGDOM-MD
 ┃◈┃
 ┃◈├•*Wᴇʙsɪᴛᴇ* 🌟
-┃◈├•https://anzadi-web.vercel.app/
+┃◈├•https://chat.whatsapp.com/FkBWBV2dsfFBoBSC61Sb7i
 ┃◈┃
 ┃◈├•KINGDOM MD--WHATTSAPP-BOT* 🥀
 ┃◈╰──────────●●►
