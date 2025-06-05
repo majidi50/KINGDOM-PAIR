@@ -8,25 +8,25 @@ const MESSAGE = process.env.MESSAGE || `
 ╭━━━〔 *KINGDOM MD.SESSION* 〕━━━┈⊷
 ┃◈├•*SESSION GENERATED SUCCESSFULY* ✅
 ┃◈┃
-┃◈├•*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
+┃◈├•*GITHUB ACCOUNT* 🌟
 ┃◈├•https://github.com/Anzad378/.KINGDOM-MD
 ┃◈┃
-┃◈├•*Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ* 🌟
+┃◈├•*TEXT ME* 🌟
 ┃◈├•https://wa.me/message/B67R2CEOSVXJK1 
 ┃◈┃
 ┃◈├•*WʜᴀᴛsAᴘᴘ Gʀᴏᴜᴘ* 🌟
-┃◈├•https://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f
+┃◈├•https://chat.whatsapp.com/FkBWBV2dsfFBoBSC61Sb7i
 ┃◈┃
-┃◈├•*WʜᴀᴛsAᴘᴘ ᴄʜᴇɴɴᴀʟ* 🌟
+┃◈├•*WʜᴀᴛsAᴘᴘ ME* 🌟
 ┃◈├•https://wa.me/message/B67R2CEOSVXJK1
 ┃◈┃
 ┃◈┃*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🌟 
 ┃◈├•https://youtube.com/anzad 
 ┃◈┃
-┃◈├•*ɢɪᴛʜᴜʙ* 🌟
+┃◈├•*GITHUB* 🌟
 ┃◈├•https://github.com/Anzad378/.KINGDOM-MD
 ┃◈┃
-┃◈├•*Wᴇʙsɪᴛᴇ* 🌟
+┃◈├•*WHATSAPP* 🌟
 ┃◈├•https://chat.whatsapp.com/FkBWBV2dsfFBoBSC61Sb7i
 ┃◈┃
 ┃◈├•KINGDOM MD--WHATTSAPP-BOT* 🥀
